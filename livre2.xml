@@ -1,0 +1,29 @@
+<!--EXERCICE 2-->
+<livre titre="Mon livre">
+ 	<auteurs>
+ 		<auteur nom="mlk" prenom="zo"/>
+ 		<auteur nom="damino" prenom="zoghl"/>
+ 	</auteurs>
+ 	<sections>
+ 		<section titre="Section1">
+ 			<chapitre titre="Chapitre1">
+ 				<paragraphe>first paragraphe</paragraphe>
+ 				<paragraphe>second paragraphe</paragraphe>
+ 			</chapitre>
+			<chapitre titre="Chapitre2">
+ 				<paragraphe>first paragraphe</paragraphe>
+ 				<paragraphe>second paragraphe</paragraphe>
+ 			</chapitre>
+ 		</section>
+ 		<section titre="Section2">
+ 			<chapitre titre="Chapitre1">
+ 				<paragraphe>first paragraphe</paragraphe>
+ 				<paragraphe>second paragraphe</paragraphe>
+ 			</chapitre>
+			<chapitre titre="Chapitre2">
+ 				<paragraphe>first paragraphe</paragraphe>
+ 				<paragraphe>second paragraphe</paragraphe>
+ 			</chapitre>
+ 		</section>
+ 	</sections>
+</livre>

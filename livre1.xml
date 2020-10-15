@@ -1,0 +1,50 @@
+<?xml encoding="ISO-8859-1"?>
+
+<!--EXERCICE 1-->
+<livre>
+	<titre >
+	<auteurs>
+ 		<auteur><nom>NomAuteur1</nom><prenom>PrenomAuteur1</prenom></auteur>
+ 		<auteur><nom>NomAuteur2</nom><prenom>PrenomAuteur2</prenom></auteur>
+ 	</auteurs>
+ 	<sections>
+ 		<section>
+ 			<titre>section1</titre>
+ 			<chapitres>
+ 				<chapitre>
+					<titre>chapitre1</titre>
+ 					<paragraphes>
+ 						<paragraphe>voivi paragraphe1</paragraphe>
+ 						<paragraphe>voici paragraphe2</paragraphe>
+ 					</paragraphes>
+ 				</chapitre>
+ 				<chapitre>
+ 					<titre>chapitre2</titre>
+ 					<paragraphes>
+ 						<paragraphe>voici paragraphe1</paragraphe>
+ 						<paragraphe>voici paragraphe2</paragraphe>
+ 					</paragraphes>
+ 				</chapitre>
+			 </chapitres>
+ 		</section>
+ 		<section>
+ 			<titre>section2</titre>
+ 			<chapitres>
+ 				<chapitre>
+ 					<titre>chapitre1</titre>
+ 					<paragraphes>
+ 						<paragraphe>voici paragraphe1</paragraphe>
+ 						<paragraphe>voici paragraphe2</paragraphe>
+ 					</paragraphes>
+ 				</chapitre>
+ 				<chapitre>
+ 				<titre>chapitre2</titre>
+				<paragraphes>
+						<paragraphe>voici paragraphe1</paragraphe>
+ 						<paragraphe>voici paragraphe2</paragraphe>
+ 				</paragraphes>
+ 				</chapitre>
+ 			</chapitres>
+ 		</section>
+ 	</sections>
+</livre>
